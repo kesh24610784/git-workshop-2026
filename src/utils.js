@@ -15,7 +15,7 @@ function normalizeUsername(username) {
 }
 
 /**
- * Check whether a string meets minimum password length kjkkh.
+ * Check whether a string meets minimum password length requirements.
  *
  * @param {string} password - Password to validate
  * @param {number} [minLength=8] - Minimum allowed length
